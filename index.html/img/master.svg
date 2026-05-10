@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="titulo">
-  <title id="titulo">Master</title>
-  <path d="M18 72h60l6-40-20 14-16-24-16 24-20-14 6 40Z" fill="#eaf2ff" stroke="#1f4f8f" stroke-width="4" stroke-linejoin="round"/>
-  <path d="M26 80h44" fill="none" stroke="#1f4f8f" stroke-width="6" stroke-linecap="round"/>
-  <circle cx="48" cy="54" r="7" fill="#198754"/>
-</svg>
